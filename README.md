@@ -7,5 +7,8 @@ Desktop video games store application using C#, OOP and MySql, in which the cust
 * Insert data into the database if you want.
 * In the program, change the value of every string named "con" or "connection" according to your local database.
 
-### Notes
-* The user of type 0 is admin, every registered user throught the GUI is a customer, so the only way to register admin is to add him manually into the data base.
+### Features
+* User and Customer can register and log in, also they can change some of their profile information.
+* User and Customers can browse the games in general and based on specific category.
+* Customer can add games to the shpopping cart and buy them, also customer can rate a game and this rating will affect the total rating of the game in the system.
+* Admin can Edit an existing game (change it's name, category, description and price) and can add a whole new game to the system.

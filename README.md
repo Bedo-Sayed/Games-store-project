@@ -3,7 +3,7 @@ Desktop video games store application using C#, OOP and MySql, in which the cust
 
 ### How to run
 * Install Mysql.Data NuGet package.
-* Run the database script into mysql editor to prepare the database and tables.
+* Run the database script into mysql editor to prepare the tables.
 * Insert data into the database if you want.
 * In the program, change the value of every string named "con" or "connection" according to your local database.
 

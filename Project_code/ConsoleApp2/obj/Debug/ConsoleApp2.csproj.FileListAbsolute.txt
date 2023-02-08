@@ -153,3 +153,42 @@ D:\clips\Codes\Games Store Project\Test\Last wf project\Last2\ConsoleApp2\Consol
 D:\clips\Codes\Games Store Project\Test\Last wf project\Last2\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.exe
 D:\clips\Codes\Games Store Project\Test\Last wf project\Last2\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
 D:\clips\Codes\Games Store Project\Test\Last wf project\Last2\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csprojAssemblyReference.cache
+D:\clips\Codes\Games Store Project\Test\Last wf project\Last2\Project code\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+D:\clips\Codes\Games Store Project\Test\Last wf project\Last2\Project code\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+D:\clips\Codes\Games Store Project\Test\Last wf project\Last2\Project code\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+D:\clips\Codes\Games Store Project\Test\Last wf project\Last2\Project code\ConsoleApp2\bin\Debug\BouncyCastle.Crypto.dll
+D:\clips\Codes\Games Store Project\Test\Last wf project\Last2\Project code\ConsoleApp2\bin\Debug\Google.Protobuf.dll
+D:\clips\Codes\Games Store Project\Test\Last wf project\Last2\Project code\ConsoleApp2\bin\Debug\K4os.Compression.LZ4.dll
+D:\clips\Codes\Games Store Project\Test\Last wf project\Last2\Project code\ConsoleApp2\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\clips\Codes\Games Store Project\Test\Last wf project\Last2\Project code\ConsoleApp2\bin\Debug\K4os.Hash.xxHash.dll
+D:\clips\Codes\Games Store Project\Test\Last wf project\Last2\Project code\ConsoleApp2\bin\Debug\MySql.Data.dll
+D:\clips\Codes\Games Store Project\Test\Last wf project\Last2\Project code\ConsoleApp2\bin\Debug\System.Buffers.dll
+D:\clips\Codes\Games Store Project\Test\Last wf project\Last2\Project code\ConsoleApp2\bin\Debug\System.Memory.dll
+D:\clips\Codes\Games Store Project\Test\Last wf project\Last2\Project code\ConsoleApp2\bin\Debug\System.Numerics.Vectors.dll
+D:\clips\Codes\Games Store Project\Test\Last wf project\Last2\Project code\ConsoleApp2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\clips\Codes\Games Store Project\Test\Last wf project\Last2\Project code\ConsoleApp2\bin\Debug\ZstdNet.dll
+D:\clips\Codes\Games Store Project\Test\Last wf project\Last2\Project code\ConsoleApp2\bin\Debug\BouncyCastle.Crypto.xml
+D:\clips\Codes\Games Store Project\Test\Last wf project\Last2\Project code\ConsoleApp2\bin\Debug\Google.Protobuf.pdb
+D:\clips\Codes\Games Store Project\Test\Last wf project\Last2\Project code\ConsoleApp2\bin\Debug\Google.Protobuf.xml
+D:\clips\Codes\Games Store Project\Test\Last wf project\Last2\Project code\ConsoleApp2\bin\Debug\K4os.Compression.LZ4.xml
+D:\clips\Codes\Games Store Project\Test\Last wf project\Last2\Project code\ConsoleApp2\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\clips\Codes\Games Store Project\Test\Last wf project\Last2\Project code\ConsoleApp2\bin\Debug\K4os.Hash.xxHash.xml
+D:\clips\Codes\Games Store Project\Test\Last wf project\Last2\Project code\ConsoleApp2\bin\Debug\MySql.Data.xml
+D:\clips\Codes\Games Store Project\Test\Last wf project\Last2\Project code\ConsoleApp2\bin\Debug\System.Buffers.xml
+D:\clips\Codes\Games Store Project\Test\Last wf project\Last2\Project code\ConsoleApp2\bin\Debug\System.Memory.xml
+D:\clips\Codes\Games Store Project\Test\Last wf project\Last2\Project code\ConsoleApp2\bin\Debug\System.Numerics.Vectors.xml
+D:\clips\Codes\Games Store Project\Test\Last wf project\Last2\Project code\ConsoleApp2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\clips\Codes\Games Store Project\Test\Last wf project\Last2\Project code\ConsoleApp2\obj\Debug\ConsoleApp2.csprojAssemblyReference.cache
+D:\clips\Codes\Games Store Project\Test\Last wf project\Last2\Project code\ConsoleApp2\obj\Debug\ConsoleApp2.AddNewGame.resources
+D:\clips\Codes\Games Store Project\Test\Last wf project\Last2\Project code\ConsoleApp2\obj\Debug\ConsoleApp2.BoughtGames.resources
+D:\clips\Codes\Games Store Project\Test\Last wf project\Last2\Project code\ConsoleApp2\obj\Debug\ConsoleApp2.Home.resources
+D:\clips\Codes\Games Store Project\Test\Last wf project\Last2\Project code\ConsoleApp2\obj\Debug\ConsoleApp2.GameData.resources
+D:\clips\Codes\Games Store Project\Test\Last wf project\Last2\Project code\ConsoleApp2\obj\Debug\ConsoleApp2.LoginForm.resources
+D:\clips\Codes\Games Store Project\Test\Last wf project\Last2\Project code\ConsoleApp2\obj\Debug\ConsoleApp2.Properties.Resources.resources
+D:\clips\Codes\Games Store Project\Test\Last wf project\Last2\Project code\ConsoleApp2\obj\Debug\ConsoleApp2.ShoppingCartForm.resources
+D:\clips\Codes\Games Store Project\Test\Last wf project\Last2\Project code\ConsoleApp2\obj\Debug\ConsoleApp2.UserProfile.resources
+D:\clips\Codes\Games Store Project\Test\Last wf project\Last2\Project code\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.GenerateResource.cache
+D:\clips\Codes\Games Store Project\Test\Last wf project\Last2\Project code\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+D:\clips\Codes\Games Store Project\Test\Last wf project\Last2\Project code\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CopyComplete
+D:\clips\Codes\Games Store Project\Test\Last wf project\Last2\Project code\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+D:\clips\Codes\Games Store Project\Test\Last wf project\Last2\Project code\ConsoleApp2\obj\Debug\ConsoleApp2.pdb

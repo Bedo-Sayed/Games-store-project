@@ -38,6 +38,12 @@ namespace ConsoleApp2
             DataTable dt = new DataTable();
             adp.Fill(dt);
 
+            List<string> cat = new List<string>{ "Action", "Adventure", "Fantasy", "Sports", "Strategy" };
+            foreach (string name in cat)
+            {
+                gameByCategory.Add(name, new List<game>());
+            }
+
             for (int i = 0; i < dt.Rows.Count; i++)
             {
                 game gm = new game();

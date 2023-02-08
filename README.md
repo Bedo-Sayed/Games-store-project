@@ -22,7 +22,7 @@ Desktop video games store application using C#, OOP and MySql, in which the cust
 <div> 
 
 <div>
-<img src = "https://github.com/Bedo-Sayed/Games-store-project/blob/main/Project_code/screen_shots/game_detail_customer.png> 
+<img src = "https://github.com/Bedo-Sayed/Games-store-project/blob/main/Project_code/screen_shots/game_detail_customer.png"> 
 <div> 
 
 <div>
